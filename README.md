@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Richardy
-- 👀 I’m interested in ...
+- 👀 I'm interested in becoming a developer
 - 🌱 I’m currently learning python
 - 💞️ I'm looking to collaborate on through the python language
 - 📫 Contact us Gabrielr.pessoal@gmail.com
